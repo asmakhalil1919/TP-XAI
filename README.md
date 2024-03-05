@@ -1,1 +1,1 @@
-# TP-XAI
+# XAI-LAB
